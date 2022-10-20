@@ -18,7 +18,7 @@ int main(){
     printf("ENTER y2 : ");
     scanf("%f",&y2);
     float slope = tangent_line(x1,x2,y1,y2);
-    printf("SLOPE OF A CIRCLE IS %.1f\n",slope);
+    printf("TANGENT LINE OF CIRCLE IS;/n y = %.1fx + c\n",slope);
     
 
 }
